@@ -1,7 +1,7 @@
 # Group-project
 About our group project
 
-Update (1843, Nov 3rd):
+Update (18:43, Nov 3rd):
 I uploaded a python code of computation of duration.
 
 ***
